@@ -14,6 +14,6 @@ public class Mother implements Cook
     @Override
     public void cook()
     {
-        System.out.println("父母做饭");
+        System.out.println("母亲做饭");
     }
 }
